@@ -8,15 +8,19 @@ To fold use
 
 {f}
 
+...folded text...
+
 {/f}
 
 or use
 
 \<f\>
 
+...folded text...
+
 \</f\>
 
-each alone at the start of a line.
+each tag alone at the start of a line.
 
 To install:
 
