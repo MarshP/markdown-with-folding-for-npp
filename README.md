@@ -5,21 +5,21 @@
 This is a np++ UDL (xml) file for Markdown syntax, with the addition of section-folding (I use markdown for my daily to-do, and it got long). 
 
 To fold use
-
+```
 {f}
 
 ...folded text...
 
 {/f}
-
+```
 or use
-
-\<f\>
+```
+<f>
 
 ...folded text...
 
-\</f\>
-
+</f>
+```
 each tag alone at the start of a line.
 
 To install:
